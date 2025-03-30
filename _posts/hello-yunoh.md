@@ -1,8 +1,9 @@
 ---
 title: Hello Yunoh
 date: 2025-03-28 21:05:00 +100
-categories: [Retail Investing, Stock Market Analysis, Investment Tools & Technology, Risk Management in Investing, Investment Strategies, Book Reviews on Investing & Finance, Personal Finance & Wealth Building]
-tags: [Stock Reviews, Investment Insights, AI in Investing, Mathematics & Investing, Economic Trends & Market Analysis, Custom Investment Tools, Portfolio Management, Financial Independence, DIY Investing, Beginner’s Guide to Investing]     # TAG names should always be lowercase
+categories: [investing, analysis, tools, risk, strategies, books, finance]
+tags: [reviews, insights, ai, mathematics, economics, tools, portfolio, independence, diy, beginners]
+     # TAG names should always be lowercase
 ---
 
 
