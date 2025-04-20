@@ -1,9 +1,11 @@
 ---
-title: Why The Intelligent Investor Should Be Your Starting Point in Stock Investing
-date: 2025-04-20 21:05:00 +100
+title: Hello Yunoh
+date: 2025-03-28 21:05:00 +100
 categories: [investing, analysis, tools, risk, strategies, books, finance]
-tags: [investing, stock, investing, value, investing, benjamin graham, intelligent, investor, investing books, beginner, investing]
+tags: [reviews, insights, ai, mathematics, economics, tools, portfolio, independence, diy, beginners]
+     # TAG names should always be lowercase
 ---
 
-# Why *The Intelligent Investor* Should Be Your Starting Point in Stock Investing
 
+
+# Welcome to Yunoh: A Retail Investor’s Information Hub  
