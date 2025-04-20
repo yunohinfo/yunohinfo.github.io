@@ -1,5 +1,5 @@
 ---
-title: "Why *The Intelligent Investor* Should Be Your Starting Point in Stock Investing"
+title: Why The Intelligent Investor Should Be Your Starting Point in Stock Investing
 description: "Discover why Benjamin Graham's *The Intelligent Investor* remains one of the best books for beginners in stock investing. Learn key takeaways and how to build a solid foundation in value investing."
 date: 2025-04-20 21:05:00 +100
 categories: [investing, analysis, tools, risk, strategies, books, finance]
