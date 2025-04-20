@@ -8,7 +8,7 @@ tags: [reviews, insights, ai, mathematics, economics, tools, portfolio, independ
 
 
 
-# Welcome to Yunoh: A Retail Investor’s Information Hub  
+# Why *The Intelligent Investor* Should Be Your Starting Point in Stock Investing
 
 Investing is often seen as a domain reserved for professionals—a world of complex charts, cryptic terminology, and high-stakes decisions. Many stay on the sidelines, unsure where to start or hesitant to dive in. But what if the journey could be different? What if investing wasn’t about handing money over to a fund manager, but about learning, experimenting, and making informed decisions independently?  
 
