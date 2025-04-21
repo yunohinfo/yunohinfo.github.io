@@ -13,7 +13,7 @@ tags: [investing, stock investing, value investing, benjamin graham, the intelli
 
 If you’ve ever dipped a toe into the world of investing—especially through **social media** or financial news—you’ve probably felt like you're being pulled in a hundred different directions. Hot takes, trending stocks, charts flying everywhere... it’s a lot. And for someone just starting out, it can be confusing, overwhelming, and honestly, a bit risky if you're only relying on what's loudest online.
 
-That’s why we think it’s worth going back to the basics. And for us, there’s no better place to start than with Benjamin Graham’s classic book, [*The Intelligent Investor*](https://amzn.to/42UM9S8).
+That’s why we think it’s worth going back to the basics. And for us, there’s no better place to start than with Benjamin Graham’s classic book, [*The Intelligent Investor*](https://amzn.to/3S0AFX4).
 
 ## A Quiet Classic in a Loud World
 
