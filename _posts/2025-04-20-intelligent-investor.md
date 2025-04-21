@@ -7,7 +7,7 @@ tags: [investing, stock investing, value investing, benjamin graham, the intelli
      # TAG names should always be lowercase
 ---
 
-
+![Desktop View](/assets/img/intelligent-investor/intelligent-investor-main.png)
 
 # Why *The Intelligent Investor* Should Be Your Starting Point in Stock Investing
 
