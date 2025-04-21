@@ -41,4 +41,4 @@ If you're just getting into **equity investing** or thinking about your first in
 
 ---
 
-*Have you read *The Intelligent Investor*? Share your thoughts with us in the comments below, or reach out to us on [social media](#). Stay curious, and keep learning!*
+*Have you read *The Intelligent Investor*? Share your thoughts with us in the comments below, or reach out to us on [X](https://twitter.com/yunoh_info). Stay curious, and keep learning!*
