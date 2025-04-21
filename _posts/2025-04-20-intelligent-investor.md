@@ -18,7 +18,7 @@ That’s why we think it’s worth going back to the basics. And for us, there�
 
 ## A Quiet Classic in a Loud World
 
-First published in 1949, *The Intelligent Investor* is far from flashy—but that’s kind of the point. Graham lays out timeless ideas about how to approach investing with patience, logic, and a long-term mindset. It’s the kind of book that doesn’t try to predict the next big thing but instead helps you think more clearly about **risk**, **value**, and your own goals.
+First published in 1949, [*The Intelligent Investor*](https://amzn.to/3S0AFX4) is far from flashy—but that’s kind of the point. Graham lays out timeless ideas about how to approach investing with patience, logic, and a long-term mindset. It’s the kind of book that doesn’t try to predict the next big thing but instead helps you think more clearly about **risk**, **value**, and your own goals.
 
 It’s also not a book that tells you what to buy or when to sell. Instead, it helps you figure out *how* to think about investing—something that’s easy to lose sight of when you’re scrolling through hot stock tips or watching markets move minute by minute.
 
@@ -30,7 +30,7 @@ In the coming weeks, we’ll be publishing a few follow-up posts with some of ou
 
 ## Read It Yourself, Form Your Own View
 
-To be clear: this is just our take. *The Intelligent Investor* is packed with ideas, and different parts will resonate with different people. We really encourage you to read it yourself and form your own view—it’s not a short read, but it’s one that sticks with you.
+To be clear: this is just our take. [*The Intelligent Investor*](https://amzn.to/3S0AFX4) is packed with ideas, and different parts will resonate with different people. We really encourage you to read it yourself and form your own view—it’s not a short read, but it’s one that sticks with you.
 
 If you're just getting into **equity investing** or thinking about your first investments, give it a shot. Let’s build from the ground up—with some thoughtful foundations instead of just the latest noise.
 
@@ -38,8 +38,8 @@ If you're just getting into **equity investing** or thinking about your first in
 
 ### More Investing Insights Coming Soon
 
-*Stay tuned as we unpack key concepts from *The Intelligent Investor* in more detail. More articles on value investing and practical investing strategies are coming your way soon!*
+Stay tuned as we unpack key concepts from [*The Intelligent Investor*](https://amzn.to/3S0AFX4) in more detail. More articles on value investing and practical investing strategies are coming your way soon!
 
 ---
 
-*Have you read *The Intelligent Investor*? Share your thoughts with us in the comments below, or reach out to us on [X](https://twitter.com/yunoh_info). Stay curious, and keep learning!*
+Have you read [*The Intelligent Investor*](https://amzn.to/3S0AFX4)? Share your thoughts with us in the comments below, or reach out to us on [X](https://twitter.com/yunoh_info). Stay curious, and keep learning!
