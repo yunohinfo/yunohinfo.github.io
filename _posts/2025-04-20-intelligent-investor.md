@@ -9,6 +9,7 @@ tags: [investing, stock investing, value investing, benjamin graham, the intelli
 
 ![Desktop View](/assets/img/intelligent-investor/intelligent-investor-main.png)
 
+
 # Why *The Intelligent Investor* Should Be Your Starting Point in Stock Investing
 
 If you’ve ever dipped a toe into the world of investing—especially through **social media** or financial news—you’ve probably felt like you're being pulled in a hundred different directions. Hot takes, trending stocks, charts flying everywhere... it’s a lot. And for someone just starting out, it can be confusing, overwhelming, and honestly, a bit risky if you're only relying on what's loudest online.
