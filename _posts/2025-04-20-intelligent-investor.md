@@ -4,6 +4,7 @@ description: "Discover why Benjamin Graham's The Intelligent Investor remains on
 date: 2025-04-20 21:05:00 +100
 categories: [investing, analysis, tools, risk, strategies, books, finance]
 tags: [investing, stock investing, value investing, benjamin graham, the intelligent investor, investing books, beginner investing, book review]
+author: khalid_cruz
      # TAG names should always be lowercase
 ---
 
