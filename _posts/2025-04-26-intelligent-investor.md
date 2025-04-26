@@ -1,5 +1,5 @@
 ---
-title: "Why The Intelligent Investor Should Be Your Starting Point in Stock Investing"
+title: "Beyond the Hype: My Key Lessons from Reading The Intelligent Investor"
 description: "Discover why Benjamin Graham's The Intelligent Investor remains one of the best books for beginners in stock investing. Learn key takeaways and how to build a solid foundation in value investing."
 image:
   path: /assets/img/intelligent-investor/intelligent-investor-main.png
