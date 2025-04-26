@@ -4,7 +4,7 @@ description: "Discover why Benjamin Graham's The Intelligent Investor remains on
 image:
   path: /assets/img/intelligent-investor/intelligent-investor-main.png
   alt: Intelligent Investor
-date: 2025-04-26 12:05:00 +100
+date: 2025-04-26 11:05:00 +100
 categories: [investing, analysis, tools, risk, strategies, books, finance]
 tags: [investing, stock investing, value investing, benjamin graham, the intelligent investor, investing books, beginner investing, book review]
      # TAG names should always be lowercase
