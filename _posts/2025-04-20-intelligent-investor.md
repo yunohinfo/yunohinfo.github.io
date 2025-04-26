@@ -10,9 +10,6 @@ tags: [investing, stock investing, value investing, benjamin graham, the intelli
      # TAG names should always be lowercase
 ---
 
-![Desktop View](/assets/img/intelligent-investor/intelligent-investor-main.png)
-
-
 # Review: *The Intelligent Investor* by Benjamin Graham
 
 When I first got serious about learning how to invest, I kept hearing about one book: *[The Intelligent Investor](https://amzn.to/3S0AFX4)* by Benjamin Graham. It’s been called the "greatest investment book of all time," and even Warren Buffett credits it for shaping how he thinks about money.
