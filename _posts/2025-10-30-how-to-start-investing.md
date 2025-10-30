@@ -6,7 +6,7 @@ image:
   alt: Beginner investor learning about stocks and AI-powered investing tools
 date: 2025-10-30 01:00:00 +0100
 categories: [investing, beginner guides]
-tags: [investing, beginner guide, ai investing, stock market, personal finance, etfs, trading platforms, 2025]
+tags: [investing, beginner guide, ai investing, stock market, personal finance, etfs, trading platforms, "2025"]
 ---
 
 # How to Start Investing as a Total Beginner in 2025 (Without the Overwhelm)
