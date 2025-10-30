@@ -1,11 +1,11 @@
 ---
-title: How to Start Investing as a Total Beginner in 2025 (Without the Overwhelm)
-description: Learn how to start investing confidently in 2025 with this step-by-step beginner guide — includes a free AI-Powered Investing Starter Kit from Yunoh.
+title: "How to Start Investing as a Total Beginner in 2025 (Without the Overwhelm)"
+description: "Learn how to start investing confidently in 2025 with this step-by-step beginner guide — includes a free AI-Powered Investing Starter Kit from Yunoh."
 image:
   path: /assets/images/how-to-start-investing-2025.jpg
   alt: Beginner investor learning about stocks and AI-powered investing tools
 date: 2025-10-30 10:00:00 +0100
-categories: [Investing, Beginner Guides]
+categories: [investing, beginner guides]
 tags: [investing, beginner guide, ai investing, stock market, personal finance, etfs, trading platforms, 2025]
 ---
 
@@ -61,12 +61,12 @@ Not all trading apps are created equal. You want something that's simple, low-fe
 
 Before diving into charts or AI models, master the core metrics that reveal a company's health:
 
-| Ratio | What It Means | Why It Matters |
-|-------|---------------|----------------|
-| **P/E** | Price-to-Earnings | Shows if a stock is over/undervalued |
-| **Dividend Yield** | Cash paid yearly | Income potential |
-| **P/B** | Price-to-Book | Compares market value vs assets |
-| **ROE** | Return on Equity | Management efficiency |
+| Ratio              | What It Means     | Why It Matters                       |
+| ------------------ | ----------------- | ------------------------------------ |
+| **P/E**            | Price-to-Earnings | Shows if a stock is over/undervalued |
+| **Dividend Yield** | Cash paid yearly  | Income potential                     |
+| **P/B**            | Price-to-Book     | Compares market value vs assets      |
+| **ROE**            | Return on Equity  | Management efficiency                |
 
 📘 **Download:** These are summarized in my Stock Valuation Cheat Sheet — included free inside the AI-Powered Investing Starter Kit.
 
