@@ -59,7 +59,7 @@ Not all trading apps are created equal. You want something that's simple, low-fe
 
 ## 3. Learn the Basics of Stock Picking
 
-![Stock analysis metrics](/assets/img/how-to-start-investing-2025/stock-metrics.png.png)
+![Stock analysis metrics](/assets/img/how-to-start-investing-2025/stock-metrics.png)
 
 Before diving into charts or AI models, master the core metrics that reveal a company's health:
 
@@ -76,7 +76,7 @@ Before diving into charts or AI models, master the core metrics that reveal a co
 
 ## 4. Let AI Be Your Investing Co-Pilot
 
-![AI-powered investing](/assets/img/how-to-start-investing-2025/stock-metrics.png.png)
+![AI-powered investing](/assets/img/how-to-start-investing-2025/ai-co-pilot.png)
 
 This is where Yunoh gets exciting.
 
