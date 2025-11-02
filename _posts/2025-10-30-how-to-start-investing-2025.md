@@ -2,9 +2,9 @@
 title: "How to Start Investing as a Total Beginner in 2025 (Without the Overwhelm)"
 description: "Learn how to start investing confidently in 2025 with this step-by-step beginner guide — includes a free AI-Powered Investing Starter Kit from Yunoh."
 image:
-  path: /assets/images/how-to-start-investing-2025.jpg
+  path: /assets/img/how-to-start-investing-2025/how-to-start-investing-2025.png
   alt: Beginner investor learning about stocks and AI-powered investing tools
-date: 2025-11-03 01:00:00 +0100
+date: 2025-11-02 01:00:00 +0100
 categories: [investing, beginner guides]
 tags: [investing, beginner guide, ai investing, stock market, personal finance, etfs, trading platforms, "2025"]
 ---
@@ -33,7 +33,7 @@ Before you buy your first share, take a step back and ask: **Why am I investing?
 
 Your "why" defines your "how." If your goal is long-term growth, you'll likely choose diversified, low-risk assets like ETFs. If you're exploring, start small — even €10 is enough to begin.
 
-💡 **Pro Tip:** Many Swedish investors start with simple index funds such as the OMX Stockholm 30 or S&P 500 ETFs before picking individual stocks.
+💡 **Pro Tip:** Many investors start with simple index funds such as the S&P 500 ETFs before picking individual stocks or ETFs available in their country. For example, OMX Stockholm 30 if you are from Sweden.
 
 ---
 
@@ -41,23 +41,25 @@ Your "why" defines your "how." If your goal is long-term growth, you'll likely c
 
 Not all trading apps are created equal. You want something that's simple, low-fee, and transparent.
 
-### 🔹 Recommended in Sweden
-
-- **Avanza** – Excellent education resources and clean interface
-- **Nordnet** – Great for automated savings and long-term portfolios
-- **Degiro** – Low-cost option for active investors
-
 ### 🔹 Recommended Globally
 
 - **eToro** – Social investing and fractional shares
 - **Interactive Brokers** – For those who want depth and analytics
 - **Trading 212** – Easy-to-use mobile investing app
 
+### 🔹 Countries like Sweden have local platforms
+
+- **Avanza** – Excellent education resources and clean interface
+- **Nordnet** – Great for automated savings and long-term portfolios
+- **Degiro** – Low-cost option for active investors
+
 🧭 **Tip:** Look for demo accounts or virtual portfolios first — you'll learn without risking real money.
 
 ---
 
 ## 3. Learn the Basics of Stock Picking
+
+![Stock analysis metrics](/assets/img/how-to-start-investing-2025/stock-metrics.png.png)
 
 Before diving into charts or AI models, master the core metrics that reveal a company's health:
 
@@ -73,6 +75,8 @@ Before diving into charts or AI models, master the core metrics that reveal a co
 ---
 
 ## 4. Let AI Be Your Investing Co-Pilot
+
+![AI-powered investing](/assets/img/how-to-start-investing-2025/stock-metrics.png.png)
 
 This is where Yunoh gets exciting.
 
@@ -109,3 +113,11 @@ I'm building Yunoh, an AI-driven investing blog that helps beginners and time-po
 💡 **Join the community today** — get free access to the AI-Powered Investing Starter Kit and learn how to use AI and data to invest confidently.
 
 👉 **Download the Starter Kit (Free)**
+
+---
+
+## Next Steps
+
+- **Subscribe to the Yunoh Newsletter** — get weekly AI-based forecasts and beginner insights.
+- **Read the next post:** How AI Forecasting Helps You Time the Market (Without Guessing).
+- **Follow me on [LinkedIn](#) or [X (Twitter)](#)** to see real-time data insights.
